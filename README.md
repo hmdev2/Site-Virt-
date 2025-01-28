@@ -17,6 +17,10 @@ Este repositório contém o código-fonte do site institucional da empresa **Vir
 - **Componentização:** estrutura organizada em componentes React reutilizáveis.
 
 ## Requisitos
+**Acesse em:** https://hmdev2.github.io/Site-Virt-/
+
+Ou
+
 Antes de iniciar, certifique-se de ter instalado:
 - **Node.js:** [https://nodejs.org/](https://nodejs.org/)
 
